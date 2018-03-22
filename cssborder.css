@@ -1,0 +1,25 @@
+p.groove{border-style: groove;
+         border-width: 5px;
+         border-color: #ff0000;
+    
+         margin-top: 20px;
+         width: 1000px;
+         height: 60px;
+         font-variant: small-caps;
+         outline-color: block;
+     }
+     p.hover{
+     	background-color: block;s
+     }
+body{
+	background-color: blue;
+	margin: 50px;
+	padding: 10px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+/*p.dotted{margin: 20px;
+        border-width: 2px;
+        }*/
