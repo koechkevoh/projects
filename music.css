@@ -1,0 +1,42 @@
+h1{
+	color: white;
+	font-size: 30px
+	text-align:center;
+
+
+}
+p{
+	text-align: center;
+	color: red;
+	font-size: 20px;
+
+}
+body{
+	background-color: blue;
+}
+.link{
+	align-content: right;
+	float: center;
+}
+.jumbotron{
+	
+}
+.v{
+	align-items: center;
+	color: steelblue;
+	overflow: auto;
+	position: absolute;
+	padding-right: 30px;
+
+	
+
+
+}
+.u{
+	align-items: right;
+
+}
+.l{
+	ima
+
+}

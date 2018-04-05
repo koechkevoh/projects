@@ -1,0 +1,48 @@
+body{
+	background-color: red;
+	color: blue;
+	size: 20px;
+
+}
+h1{
+	text-align: center;
+	color: blue;
+
+}
+.a{
+	color: white;
+	font-size: 20px;
+	border: 20px;
+
+}
+.form{
+	background-color: blue;
+	color: black;
+}
+.link{
+	text-align: center;
+}
+.image1{
+	float: center auto;
+	width: 300px;
+	height: 100px;
+	margin: auto;
+}
+.username{
+	text-align: : center;
+}
+
+#username{
+	margin-left: 300px;
+
+
+
+
+}
+
+#login{
+	margin-left: 600px;
+	margin-bottom: 0px;
+
+
+}
