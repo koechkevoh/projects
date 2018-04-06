@@ -1,0 +1,110 @@
+h1{
+	background-color:  #ff0000;
+	margin-top: none;
+	text-align: top;
+	text-align: left;
+	color: white;
+	text-align: center;
+
+}
+h1 span{
+	float: right;
+	margin-left: 14px;
+}
+h1 .goldT{
+	width: 140px;
+	vertical-align: middle;
+}
+  .center{
+	margin: auto;
+	width: 20%;
+	border: 3px solid;
+	padding: 28px;
+
+}
+.image2{
+	float: center;
+	width: 200px;
+	height: 200px;
+	align-content: center;
+}
+.image4{
+	size: 120px;
+	
+}
+
+
+
+head{
+	margin: 20px;
+	padding: 20px;
+	background-color: #ff0000;
+	border: 25px solid red;
+	width: 320px;
+	
+}
+#naigation-wrapper{
+	width: 465px;
+	border:1px solid red;
+	background-color: #ff0000;
+}
+#top-navigation{
+	margin: 0 auto;
+	border:1px solid red;
+	padding: 5px 0;
+}
+#top-navigation li{
+	display: inline;
+	margin: 2;
+	color: block;
+}
+li a.hover{
+	background-color: #000000
+	color:black;
+}
+li{
+	display: black;
+	background-color: red;
+
+}
+
+p{
+	text-align: left;
+	text-align: bottom;
+	text-decoration-color: block;
+
+}
+h3{
+	background-color: #ff0000;
+	color: white;
+}
+h5{
+	background-color: #ff0000;
+	border-style: none;
+	font-size: 20px;
+	width: 60px;
+	color: white;
+
+}
+h6{
+	color: white;
+	background-color: #ff0000;
+	font-size: 20px;
+	width: 200px;
+	border-style: hidden;
+	size: 20px;
+	background-image: red;
+	border-image-width: 20px;
+	text-align: center;
+	align-items: top;
+}
+div{
+	text-align: center;
+	position: center;
+	size: 20px;
+	margin-bottom: 5px
+}
+body{
+	background-color: #e6e6e6;
+}
+
